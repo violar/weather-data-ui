@@ -3,7 +3,7 @@
 Live demo located at: <a href="http://weather-data-ui.s3-website.ca-central-1.amazonaws.com">http://weather-data-ui.s3-website.ca-central-1.amazonaws.com</a>
 
 ## Notes
-- I am using http://ip-api to fetch my location by IP address
+- I am using http://ip-api.com/json to fetch my location by IP address
 - Front end application only, I am hardcoding the weather api key :(. In a real project I would store this key in an environment variable on a backend server.
 - Using React, Redux and Bootstrap (Reactstrap)
 
